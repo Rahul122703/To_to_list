@@ -61,12 +61,9 @@ function addItem(e) {
                     <div class="button_container">
                         <button type="button" class="edit_btn">
                             <img src="./edit.svg" alt>
-                            <!-- <i class="fas fa-edit">E</i> -->
                         </button>
                         <button type="button" class="del_btn">
                             <img src="./delete.svg" alt>
-
-                            <!-- <i class="fas fa-trash">D</i> -->
                         </button>
                     </div>
                 </div>`;
@@ -168,12 +165,9 @@ function setupItems() {
                     <div class="button_container">
                         <button type="button" class="edit_btn">
                             <img src="./edit.svg" alt>
-                            <!-- <i class="fas fa-edit">E</i> -->
                         </button>
                         <button type="button" class="del_btn">
                             <img src="./delete.svg" alt>
-
-                            <!-- <i class="fas fa-trash">D</i> -->
                         </button>
                     </div>
                 </div>`;
