@@ -30,6 +30,7 @@ function displayAlert(text, Posi_or_neg) {
 function setDefault() {
   user_input_text.value = "";
   submit.textContent = "submit";
+  edit_flag = false;
 }
 
 function editItem(e) {
